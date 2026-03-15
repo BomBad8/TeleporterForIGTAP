@@ -1,6 +1,7 @@
 # built programs
 bin/
 obj/
+tps.txt
 
 # vs settings
 .vs/
